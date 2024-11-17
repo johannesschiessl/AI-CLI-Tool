@@ -1,4 +1,4 @@
-# OpenAI-CLI-Tool
+# AI-CLI-Tool
 A CLI tool designed to help you with a variety of tasks. Makes it easy to interact with the OpenAI API, whether you have a question, need an image, want to convert text to speech, or want to transcribe something.
 ## Installation
 Follow these steps to get up and running.
@@ -7,10 +7,10 @@ Before doing any of this, navigate to the desired directory. You will also need 
 
 1. **Clone the Repository**:
 
-       git clone https://github.com/johannesschiessl/OpenAI-CLI-Tool.git
+       git clone https://github.com/johannesschiessl/AI-CLI-Tool.git
 2. **Navigate to the Project Directory**:
 
-       cd AI-Assistant
+       cd AI-CLI-Tool
 3. **Install Requirements**:
 
        # On Windows / Linux: pip install -r requirements.txt
