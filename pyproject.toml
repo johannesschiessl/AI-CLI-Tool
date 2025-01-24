@@ -1,0 +1,16 @@
+[project]
+name = "ai-cli-tool"
+version = "0.2.1"
+description = "An AI-powered CLI tool for questioning, image generation, text-to-speech and transcription. Built in Python and based on the OpenAI API."
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [
+    { name = "Johannes Schießl" },
+    { name = "Jakob Grätz"}
+]
+requires-python = ">=3.12"
+dependencies = [
+    "datetime==5.4",
+    "openai==1.6.1",
+    "rich==13.7.0",
+]
