@@ -13,5 +13,5 @@ def generate_system_prompt():
         file_data: dict = json.load(file)
         model: str = file_data.get("model", "")
 
-    return f"You are a helpful assistant, based on the {model} architecture, a large language model trained by OpenAI. Answer briefly and accurately. Knowledge cutoff: 2022-01 - Current date: {get_current_date_time()}"
+    return f"You are a helpful assistant, based on the {model} architecture, a large language model trained by OpenAI. Answer briefly and accurately. Knowledge cutoff: 2024-04 - Current date: {get_current_date_time()}"
     
