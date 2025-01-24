@@ -1,5 +1,3 @@
-import config
-
 from openai_local.handler import run
 from openai_local.functions.image_generation import generate_image
 from openai_local.functions.text_to_speech import text_to_speech
